@@ -4,6 +4,8 @@
 </div>
 
 <div>
-  <h1>Techonology Stacks</h1>
-  
+  <h1>Techonology Stacks</h1><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img />
+  <img />
 </div>
