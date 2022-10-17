@@ -4,5 +4,6 @@
 </div>
 
 <div>
-  <h1 style="text-align:"center"">Techonology Stacks</h1>
+  <h1>Techonology Stacks</h1>
+  
 </div>
