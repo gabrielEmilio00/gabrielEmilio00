@@ -1,3 +1,3 @@
 <div>
-  <img src:"https://github-readme-stats.vercel.app/api?username=gabrielEmilio00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielEmilio00" />
 </div>
