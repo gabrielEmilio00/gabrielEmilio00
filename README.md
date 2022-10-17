@@ -5,7 +5,7 @@
 
 <div>
   <h1>Techonology Stacks</h1><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" align="center"/>
   <img height="" width=""  />
   <img height="" width=""  />
 </div>
