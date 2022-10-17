@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h1>Techonology Stacks</h1><br>
+  <h1>Techonology Stacks <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" heigth="60" width="60"/></h1><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML" height="40" width="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS" height="40" width="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40" align="center" />
