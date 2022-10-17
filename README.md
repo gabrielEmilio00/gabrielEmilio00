@@ -11,6 +11,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="40" width="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" height="40" width="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" align="center"/>
-  
-  <img src="" height="" width=""  />
 </div>
