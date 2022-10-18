@@ -11,5 +11,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="40" width="50" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" height="40" width="50" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="50" align="center"/>
+  <hr>
   <img src="https://raw.githubusercontent.com/gabrielEmilio00/gabrielEmilio00/main/assets/bighead.svg" heigth="150" align="rigth"/>
 </div>
