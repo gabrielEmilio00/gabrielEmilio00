@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h2>My skills</h2><br>
+  <h3>My skills</h3><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML" height="40" width="50" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS" height="40" width="50" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="50" align="center" />
