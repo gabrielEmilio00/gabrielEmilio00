@@ -1,5 +1,5 @@
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielEmilio00&count_private=true&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielEmilio00&count_private=true&include_all_commits=true&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
   
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielEmilio00&layout=compact&theme=radical&border_radius=10&hide_border=true" />-->
 </div>
