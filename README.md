@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="60" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="AngularJs" height="40" width="60" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJs" height="40" width="60" align="center"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="40" width="60" align="center" />
   <img src="https://raw.githubusercontent.com/gabrielEmilio00/gabrielEmilio00/main/assets/bighead.svg" height="150" align="right"/>
 </div>
 
