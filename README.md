@@ -18,4 +18,4 @@
 
 #
 
-![snake gif](https://github.com/gabrielEmilio00/gabrielEmilio00/blob/output/github-contribution-grid-snake.gif)
+<!--! [snake gif](https://github.com/gabrielEmilio00/gabrielEmilio00/blob/output/github-contribution-grid-snake.gif) -->
